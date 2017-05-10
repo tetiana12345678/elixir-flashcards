@@ -10,8 +10,7 @@ Cards intended to be printed on A3 sheet of paper. If you have a good vision
 printing on A4 sheet might work for you.
 
 Article with result of research done by congnitive psylogogist on effectiveness
-of various learning techniques could be [found here]
-(http://bigthink.com/neurobonkers/assessing-the-evidence-for-the-one-thing-you-never-get-taught-in-school-how-to-learn)
+of various learning techniques could be [found here](http://bigthink.com/neurobonkers/assessing-the-evidence-for-the-one-thing-you-never-get-taught-in-school-how-to-learn)
 
 ## Help
 
